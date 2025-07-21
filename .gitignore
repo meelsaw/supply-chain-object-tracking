@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 outputs/annotated_video.mp4
+data/test_video.mp4
